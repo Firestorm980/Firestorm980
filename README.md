@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Three.js, Blender, Next.js, Astro.js, and a bunch of other stuff.**
 
-- 👨‍💻 All of my projects are available at [https://jmcdsn.com](https://jmcdsn.com)
+- 👨‍💻 All of my projects are available at [https://jmcdsn.com](https://jmcdsn.com) but also in my various repos. I've worked on web projects in entertainment, technology, education, non-profit, and more.
 
-- 📫 How to reach me **jon@jmchristensendesign.com**
+- 📫 How to reach me **jon@jmchristensendesign.com** is the best way to get a hold of me and chat.
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/jon-christensen-2768381a](https://www.linkedin.com/in/jon-christensen-2768381a)
+- 📄 Know about my experiences / read my CV [https://www.linkedin.com/in/jon-christensen-2768381a](https://www.linkedin.com/in/jon-christensen-2768381a)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
