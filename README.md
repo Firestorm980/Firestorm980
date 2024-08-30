@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jon Michael Christensen</h1>
 <h3 align="center">I'm a designer, front end developer, and nerd.</h3>
 
-- 🌱 I’m currently learning **Three.js, Blender, Next.js, Astro.js, and a bunch of other stuff.**
+- 🌱 I’m currently learning **Three.js, Blender, Astro.js, and a bunch of other stuff.**
 
 - 👨‍💻 All of my projects are available at [https://jmcdsn.com](https://jmcdsn.com) but also in my various repos. I've worked on web projects in entertainment, technology, education, non-profit, and more.
 
