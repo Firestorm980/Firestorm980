@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Three.js, Blender, Astro.js, and a bunch of other stuff.**
 
-- 👨‍💻 All of my projects are available at [https://jmcdsn.com](https://jmcdsn.com) but also in my various repos. I've worked on web projects in entertainment, technology, education, non-profit, and more.
+- 👨‍💻 Select projects are available at [https://jmcdsn.com](https://jmcdsn.com) but also in my various repos. I've worked on web projects in entertainment, technology, education, non-profit, and more. With 15 years experience, I've racked up a few.
 
 - 📫 How to reach me **jon@jmchristensendesign.com** is the best way to get a hold of me and chat.
 
@@ -12,7 +12,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/jmchristensen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jmchristensen" height="30" width="40" /></a>
-<a href="https://twitter.com/jonmchristensen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jonmchristensen" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
